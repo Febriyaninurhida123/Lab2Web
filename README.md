@@ -194,12 +194,14 @@ hasilnya :
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
 penjelasannya!
+
 jawaban
 
 perbedaaannya jika hanya h1{} maka akan merubah semua yang ada didalam elemen h1 sedangkan intro h1 hanya akan merubah yang memiliki tag intro
 
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
 penjelasan dan contohnya!
+
 jawaban
 
 jika ketiga CSS merubah elemen yang sama maka deklarasi tersebut akan mengikuti aturan prioritas dimana prioritas CSS nya seperti ini:
@@ -208,6 +210,7 @@ inline CSS
 ID selector CSS
 internal CSS
 external CSS contoh: ini adalah tampilan coding pada html testing dimana terdapat 2 kalimat yang memiliki elemen yang sama yaitu h1:
+
 disini bisa dilihat sudah terdapat 2 css mencoba merubah warna text h1 :
 
 ![image](ss/ss15.png)
@@ -217,9 +220,9 @@ dan hasil adalah :
 ![image](ss/ss16.png)
 
 
-4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
-terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
-Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
+4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
+Berikan penjelasan dan contohnya! ( p id="paragraf-1" class="text-paragraf" )
+
 
 jawab :
 
@@ -229,5 +232,7 @@ jawab :
 ## sekian :)
 
 FERIYANI NURHIDA
+
 TI.22.A2
+
 312210222
