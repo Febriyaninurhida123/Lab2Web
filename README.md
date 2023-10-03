@@ -171,6 +171,11 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 ![image](ss/ss11.png)
 
 
+Berikut Hasil percobaan Pengujian Validator pada Css Eksternal
+
+![image](ss/ss12.png)
+
+
 ## Pertanyaan dan Tugas
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
